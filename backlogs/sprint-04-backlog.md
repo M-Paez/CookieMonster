@@ -28,6 +28,8 @@ Sprint 4 Backlog:
 | RC-008 | As a Product Owner, I want to ensure that no calculations occur on the client so that I can maintain centralized and consistent calculation logic. | 7 | 1 | Y | -- | Luis P. |
 | RC-009 | As a user, I want my inputs validated (e.g., height ≥ 2 feet) so that I can avoid mistakes and receive accurate results. | 7 | 2 | N | -- | Karen V. |
 | RC-010 | As a developer, I want to implement the risk calculation API using Node.js so that I can encapsulate the core business logic on the server side. | 7 | 3 | N | -- | Luis P. |
+| RC-011 | As a developer, I want to write at least one Node.js API and commit to GitHub so that I can contribute to server-side functionality and maintain traceable commits. (one story per team member) | 7 | 2 | N | -- | All Team Members |
+| RC-012 | As a user, I want to see a summary of my inputs before submitting so that I can confirm the information I entered is correct. | 5 | 1 | Y | -- | Sadri O. |
 
 Todo:
 1. Team members request the highest priority stories (required for MVP) 
