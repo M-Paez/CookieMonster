@@ -9,7 +9,6 @@ permalink: /backlogs/product-backlog/
 | **ID** | **User Story / Task** | **Priority (1-10)** | **Estimate (SP)** | **Spike (Y/N)** | **Status** | **Assigned** |
 |--------|------------------------|--------------|--------------|------------|--------------|--------------|
 | RC-006 | As a developer, I want to set up GitHub client and server repositories along with connected Azure Static Web App and Node.js servers so that I can deploy and test code collaboratively in the cloud. | 7 | 1 | Y | -- | -- |
-| RC-008 | As a Product Owner, I want to ensure that no calculations occur on the client so that I can maintain centralized and consistent calculation logic. | 7 | 1 | Y | -- | -- |
 | RC-009 | As a user, I want my inputs validated (e.g., height ≥ 2 feet) so that I can avoid mistakes and receive accurate results. | 7 | 2 | N | -- | -- |
 | RC-010 | As a developer, I want to implement the risk calculation API using Node.js so that I can encapsulate the core business logic on the server side. | 7 | 3 | N | -- | -- |
 | RC-011 | As a developer, I want to write at least one Node.js API and commit to GitHub so that I can contribute to server-side functionality and maintain traceable commits. (one story per team member) | 7 | 2 | N | -- | -- |
