@@ -32,8 +32,3 @@ Sprint 4 Backlog:
 | RC-013 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 5 | 1 | N | Ready | Molly P. |
 | RC-014 | As a developer, I want to deploy the client as an Azure static website so that I can provide users with a fast and accessible frontend. | 5 | 1 | Y | Done | Molly P. |
 | RC-016 | As a user, I want a visually appealing application that utilizes Tailwind to style the interface, allowing me to enjoy a modern and visually pleasing experience. | 3 | 3 | N | Ready | Sadri O. |
-
-Todo:
-1. Team members request the highest priority stories (required for MVP) 
-2. These high-priority stories are assigned to the team member and **moved** from the Product Backlog to the Sprint 4 Backlog 
-3. Team commits to Sprint 4 Backlog
