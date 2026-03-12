@@ -34,7 +34,7 @@ Sprint 4 Backlog:
 | RC-014 | As a developer, I want to deploy the client as an Azure static website so that I can provide users with a fast and accessible frontend. | 5 | 1 | Y | Done | Molly P. |
 | RC-016 | As a user, I want a visually appealing application that utilizes Tailwind to style the interface, allowing me to enjoy a modern and visually pleasing experience. | 3 | 3 | N | -- | Sadri O. |
 | RC-017 | As a developer, I want to configure local `.env` or config files for seamless local testing so that I can develop without environment conflicts. (fix)| 2 | 1 | Y | -- | All Team Members |
-| RC-018 | As a user, I want to identify and process my family history of hypertension so that I can understand how my health history affects my risk. | 1 | 2 | N | -- | Karen V. |
+| RC-018 | As a user, I want to identify and process my family history of hypertension so that I can understand how my health history affects my risk. | 1 | 2 | N | -- | Sadri O. |
 
 Todo:
 1. Team members request the highest priority stories (required for MVP) 
