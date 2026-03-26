@@ -26,8 +26,8 @@ Sprint 4 Backlog:
 | RC-007 | As a user, I want to enter my age, height (in feet and inches), weight (lbs), blood pressure, and family history so that I can receive a personalized risk calculation. | 7 | 3 | Y | Ready | Karen V. |
 | RC-008 | As a Product Owner, I want to ensure that no calculations occur on the client so that I can maintain centralized and consistent calculation logic. | 7 | 1 | Y |Ready | Luis P. |
 | RC-009 | As a user, I want my inputs validated (e.g., height ≥ 2 feet) so that I can avoid mistakes and receive accurate results. | 7 | 2 | N | Ready | Karen V. |
-| RC-010 | As a developer, I want to implement the risk calculation API using Node.js so that I can encapsulate the core business logic on the server side. | 7 | 3 | N | Ready | Luis P. |
-| RC-011 | As a developer, I want to write at least one Node.js API and commit to GitHub so that I can contribute to server-side functionality and maintain traceable commits. (one story per team member) | 7 | 2 | N | Ready | All Team Members |
+| RC-010 | As a developer, I want to implement the risk calculation API using Node.js so that I can encapsulate the core business logic on the server side. | 7 | 3 | N | Done | Luis P. |
+| RC-011 | As a developer, I want to write at least one Node.js API and commit to GitHub so that I can contribute to server-side functionality and maintain traceable commits. (one story per team member) | 7 | 2 | N | Done | All Team Members |
 | RC-012 | As a user, I want to see a summary of my inputs before submitting so that I can confirm the information I entered is correct. | 5 | 1 | Y | Ready | Sadri O. |
 | RC-013 | As a client, I want to call a “ping” API to wake the servers on load, ensuring the backend is responsive when needed. | 5 | 1 | N | Ready | Molly P. |
 | RC-014 | As a developer, I want to deploy the client as an Azure static website so that I can provide users with a fast and accessible frontend. | 5 | 1 | Y | Done | Molly P. |
